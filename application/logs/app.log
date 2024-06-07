@@ -1,0 +1,81 @@
+2024-06-07 04:12:00,290 - INFO - Fulfillment text: Welcome to our restaurant! To view our menu, simply type "menu." If you're already familiar with our offerings, feel free to go ahead and place your order directly.
+2024-06-07 04:12:01,822 - INFO - Sent WhatsApp message with SID: SM42d39ff36698713c4d757461a66aff70
+2024-06-07 04:12:01,822 - INFO - Time taken: 0:00:03.029195
+2024-06-07 04:15:39,191 - INFO - Received message: show menu
+2024-06-07 04:15:39,400 - INFO - Session path: projects/zimik-the-bot-bves/agent/sessions/918825068743
+2024-06-07 04:15:40,468 - INFO - ====================
+2024-06-07 04:15:40,468 - INFO - Query text: show menu
+2024-06-07 04:15:40,468 - INFO - Detected intent: show.menu (confidence: 1.0)
+2024-06-07 04:15:40,469 - INFO - Fulfillment text: Here is our menu!
+2024-06-07 04:15:42,030 - INFO - Sent WhatsApp message with SID: MMba55771ca8c596db62750e24e3bd72f6
+2024-06-07 04:15:42,030 - INFO - Time taken: 0:00:02.835355
+2024-06-07 04:16:35,155 - INFO - Received message: show menu
+2024-06-07 04:16:35,284 - INFO - Session path: projects/zimik-the-bot-bves/agent/sessions/918825068743
+2024-06-07 04:16:36,284 - INFO - ====================
+2024-06-07 04:16:36,284 - INFO - Query text: show menu
+2024-06-07 04:16:36,284 - INFO - Detected intent: show.menu (confidence: 1.0)
+2024-06-07 04:16:36,284 - INFO - Fulfillment text: Here is our menu!
+2024-06-07 04:16:38,127 - INFO - Sent WhatsApp message with SID: MMe6b694adba62b3fd1ea27c558a361033
+2024-06-07 04:16:38,127 - INFO - Time taken: 0:00:02.971666
+2024-06-07 04:17:42,124 - INFO - Received message: show menu
+2024-06-07 04:17:42,292 - INFO - Session path: projects/zimik-the-bot-bves/agent/sessions/918825068743
+2024-06-07 04:17:43,244 - INFO - ====================
+2024-06-07 04:17:43,244 - INFO - Query text: show menu
+2024-06-07 04:17:43,245 - INFO - Detected intent: show.menu (confidence: 1.0)
+2024-06-07 04:17:43,245 - INFO - Fulfillment text: Here is our menu!
+2024-06-07 04:17:45,087 - INFO - Sent WhatsApp message with SID: MM867fcbb48b8fd817202c9c89157d8b62
+2024-06-07 04:17:45,088 - INFO - Time taken: 0:00:02.961982
+2024-06-07 04:18:51,066 - INFO - Received message: menu
+2024-06-07 04:18:51,220 - INFO - Session path: projects/zimik-the-bot-bves/agent/sessions/918825068743
+2024-06-07 04:18:51,974 - INFO - ====================
+2024-06-07 04:18:51,974 - INFO - Query text: menu
+2024-06-07 04:18:51,975 - INFO - Detected intent: show.menu (confidence: 1.0)
+2024-06-07 04:18:51,975 - INFO - Fulfillment text: Here is our menu!
+2024-06-07 04:18:53,565 - INFO - Sent WhatsApp message with SID: MM91682cc5f8b0cd91356fadf94ec5a0c4
+2024-06-07 04:18:53,566 - INFO - Time taken: 0:00:02.497912
+2024-06-07 06:41:08,606 - INFO - Received message: Hey
+2024-06-07 06:41:11,632 - ERROR - Error in detect_intent_texts: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Error: Error in detect_intent_texts: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2024-06-07 06:41:11,634 - ERROR - Error in reply: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+Error: Error in reply: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2024-06-07 06:43:06,173 - INFO - Received message: Hey
+2024-06-07 06:43:06,327 - INFO - Session path: projects/zimik-the-bot-bves/agent/sessions/918825068743
+2024-06-07 06:43:07,963 - INFO - ====================
+2024-06-07 06:43:07,964 - INFO - Query text: Hey
+2024-06-07 06:43:07,964 - INFO - Detected intent: Default Welcome Intent (confidence: 1.0)
+2024-06-07 06:43:07,964 - INFO - Fulfillment text: Welcome to our restaurant! To view our menu, simply type "menu." If you're already familiar with our offerings, feel free to go ahead and place your order directly.
+2024-06-07 06:43:09,447 - INFO - Sent WhatsApp message with SID: None
+2024-06-07 06:43:09,448 - INFO - Time taken: 0:00:03.273640
+2024-06-07 06:44:16,236 - INFO - Received message: Hey
+2024-06-07 06:44:16,357 - INFO - Session path: projects/zimik-the-bot-bves/agent/sessions/918825068743
+2024-06-07 06:44:18,139 - INFO - ====================
+2024-06-07 06:44:18,140 - INFO - Query text: Hey
+2024-06-07 06:44:18,141 - INFO - Detected intent: Default Welcome Intent (confidence: 1.0)
+2024-06-07 06:44:18,141 - INFO - Fulfillment text: Welcome to our restaurant! To view our menu, simply type "menu." If you're already familiar with our offerings, feel free to go ahead and place your order directly.
+2024-06-07 06:44:19,468 - INFO - Sent WhatsApp message with SID: None
+2024-06-07 06:44:19,468 - INFO - Time taken: 0:00:03.230353
+2024-06-07 06:44:29,714 - INFO - Received message: Hey
+2024-06-07 06:44:29,853 - INFO - Session path: projects/zimik-the-bot-bves/agent/sessions/918825068743
+2024-06-07 06:44:30,880 - INFO - ====================
+2024-06-07 06:44:30,880 - INFO - Query text: Hey
+2024-06-07 06:44:30,881 - INFO - Detected intent: Default Welcome Intent (confidence: 1.0)
+2024-06-07 06:44:30,881 - INFO - Fulfillment text: Welcome to our restaurant! To view our menu, simply type "menu." If you're already familiar with our offerings, feel free to go ahead and place your order directly.
+2024-06-07 06:44:32,214 - INFO - Sent WhatsApp message with SID: SMb686d00d0415b49fa114c8d037cd7fce
+2024-06-07 06:44:32,215 - INFO - Time taken: 0:00:02.499568
+2024-06-07 06:44:34,843 - INFO - Status: delivered
+2024-06-07 06:44:34,848 - INFO - Status: sent
+2024-06-07 06:45:12,725 - INFO - Received message: Hey
+2024-06-07 06:45:12,727 - ERROR - Error in detect_intent_texts: File Dialog_Key.json was not found.
+Error: Error in detect_intent_texts: File Dialog_Key.json was not found.
+2024-06-07 06:45:12,727 - ERROR - Error in reply: File Dialog_Key.json was not found.
+Error: Error in reply: File Dialog_Key.json was not found.
+2024-06-07 07:02:07,606 - INFO - Received message: Hey
+2024-06-07 07:02:07,783 - INFO - Session path: projects/zimik-the-bot-bves/agent/sessions/918825068743
+2024-06-07 07:02:08,776 - INFO - ====================
+2024-06-07 07:02:08,776 - INFO - Query text: Hey
+2024-06-07 07:02:08,777 - INFO - Detected intent: Default Welcome Intent (confidence: 1.0)
+2024-06-07 07:02:08,777 - INFO - Fulfillment text: Welcome to our restaurant! To view our menu, simply type "menu." If you're already familiar with our offerings, feel free to go ahead and place your order directly.
+2024-06-07 07:02:10,207 - INFO - Sent WhatsApp message with SID: SMb6b8e21bf3a63e95725eea25a6301339
+2024-06-07 07:02:10,208 - INFO - Time taken: 0:00:02.600515
+2024-06-07 07:02:11,851 - INFO - Status: sent
+2024-06-07 07:02:13,219 - INFO - Status: delivered

@@ -1,0 +1,6 @@
+__pycache__
+venvName/ 
+.env
+Dialog_Key.json
+Twilio_Key.json
+ngrok
